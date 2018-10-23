@@ -10,21 +10,21 @@ namespace Averager
     {
         static void Main(string[] args)
         {
-            double total = 0;
-            int count = 0;
+            var total = 0.0;
+            var count = 0;
 
             //Repeatedly prompt the user for numbers. 
             while (true)
             {
                 Console.Write("Enter a number or type \"done\" to see the average: ");
-                string entry = Console.ReadLine();
+                var entry = Console.ReadLine();
                 if (entry.ToLower() == "done")
                 {
                     break;
                 }
                 try
                 {
-                    int number = int.Parse(entry);
+                    var number = double.Parse(entry);
 
                     //Add all of the numbers together. 
                     total += number;
