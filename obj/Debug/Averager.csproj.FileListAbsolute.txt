@@ -1,0 +1,7 @@
+C:\Averager\bin\Debug\Averager.exe.config
+C:\Averager\bin\Debug\Averager.exe
+C:\Averager\bin\Debug\Averager.pdb
+C:\Averager\obj\Debug\Averager.csprojResolveAssemblyReference.cache
+C:\Averager\obj\Debug\Averager.csproj.CoreCompileInputs.cache
+C:\Averager\obj\Debug\Averager.exe
+C:\Averager\obj\Debug\Averager.pdb
