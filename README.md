@@ -7,4 +7,4 @@ Here is the practice challenge from teamtreehouse:
 
 Screenshot:
 
-![image](https://user-images.githubusercontent.com/30088732/47397349-dba61f00-d6fc-11e8-8195-02b7b9b6b370.png)
+![image](https://user-images.githubusercontent.com/30088732/47397916-89b2c880-d6ff-11e8-8a1f-8ed36794d4b0.png)
